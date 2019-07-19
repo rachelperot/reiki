@@ -1,0 +1,23 @@
+#menu {
+    	background-color:pink;
+    	overflow: hidden;
+    	height: 20px;
+    	list-style-type: none;
+}
+#menu li{float:left;
+         width:450px;
+         margin:auto;
+         background: rgb(0,0,0,0.4);
+         padding:10px 20px;
+         box-sizing: border-box;
+         margin-top: 20px;
+         border-radius: 7px;
+}  	
+
+
+
+
+#menu a{display:block;} 
+h2 {clear:both;
+color:;
+} 	
